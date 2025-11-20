@@ -1,0 +1,6 @@
+package api;
+
+public enum TYPE_MESSAGE {
+
+    ERROR, DIALOG, INFORMATION_MESSAGE, WARNING,
+}
